@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "debug": "2.3.3",
-    "engine.io": "1.8.3",
+    "engine.io": "https://github.com/vfeskov/engine.io#4510a3e0e387fed8c8ef9741ad676262a8e082ed",
     "has-binary": "0.1.7",
     "object-assign": "4.1.0",
     "socket.io-adapter": "0.5.0",
